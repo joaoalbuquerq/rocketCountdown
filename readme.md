@@ -1,6 +1,6 @@
 # RocketCountdown 🚀
 <p align="center">
-<img src="https://imgur.com/R8NshCq" alt="rocketcountdown" title="RocketCountdown">
+<img src="https://imgur.com/R8NshCq.png" alt="rocketcountdown" title="RocketCountdown">
 </p>
 
 ## 📖 Sobre   
