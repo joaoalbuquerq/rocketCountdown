@@ -26,7 +26,7 @@ Projeto criado para treinar um pouco mais do método setInterval do Javascript. 
 
 ## 🔧 Como executar o projeto
 
-Para visualizar o projeto você pode ir no link: 
+Para visualizar o projeto você pode ir no link: https://joaoalbuquerq.github.io/rocketCountdown
 
 Caso queira executar o projeto em sua máquina, basta executar os passos abaixo:
 
