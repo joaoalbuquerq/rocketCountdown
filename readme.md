@@ -18,7 +18,7 @@ Projeto criado para treinar um pouco mais do método setInterval do Javascript. 
 ---
 
 ## 🖥️ Demonstração
-![RocketCountdown](https://i.imgur.com/upmH0Dd.png "Clique para acessar o projeto")
+![RocketCountdown](https://imgur.com/R8NshCq.png "Clique para acessar o projeto")
 
 
 
